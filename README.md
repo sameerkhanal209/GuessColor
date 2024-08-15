@@ -14,7 +14,7 @@ npm install
 ```
 
 
-### Run these when you want to start the app in different terminals
+### Run these when you want to start the app, Run these in different terminals
 
 
 ```
